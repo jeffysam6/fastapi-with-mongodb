@@ -22,6 +22,27 @@ To use this project, follow these steps:
 4. Install dependencies: `pip install -r requirements.txt`
 5. Start the application: `python app/main.py `
 
+## Directory Structure
+.
+├── __init__.py
+├── main.py
+└── server
+    ├── app.py
+    ├── database
+    │   ├── __init__.py
+    │   ├── organization.py
+    │   ├── permission.py
+    │   └── user.py
+    ├── database.py
+    ├── models
+    │   ├── organization.py
+    │   ├── permission.py
+    │   └── user.py
+    └── routes
+        ├── organization.py
+        ├── permission.py
+        └── user.py
+
 ## Usage
 
 Here's how you can use this project:
