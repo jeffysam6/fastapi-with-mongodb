@@ -33,7 +33,6 @@ To use this project, follow these steps:
     │   ├── organization.py
     │   ├── permission.py
     │   └── user.py
-    ├── database.py
     ├── models
     │   ├── organization.py
     │   ├── permission.py
