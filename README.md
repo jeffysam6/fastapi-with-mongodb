@@ -23,7 +23,7 @@ To use this project, follow these steps:
 5. Start the application: `python app/main.py `
 
 ## Directory Structure
-.
+`.
 ├── __init__.py
 ├── main.py
 └── server
@@ -42,7 +42,7 @@ To use this project, follow these steps:
         ├── organization.py
         ├── permission.py
         └── user.py
-
+`
 ## Usage
 
 Here's how you can use this project:
